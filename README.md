@@ -9,7 +9,7 @@ The main objective of this project is to provide an overview of sales performanc
 ## Methodology:
 The project will follow the following methodology:
 
-*Data Collection*: Collect sales data from different sources, such as CRM systems, Point of Sales (POS) systems, and Excel spreadsheets.
+*Data Collection*: Collect sales data from different sources, such as Excel spreadsheets.
 
 *Data Cleaning and Preparation*: Clean the collected data, including removing duplicates, filling missing values, and standardizing data formats.
 
